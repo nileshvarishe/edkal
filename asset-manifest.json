@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edkal/static/css/main.fcc39c7c.chunk.css",
+    "main.js": "/edkal/static/js/main.224b1424.chunk.js",
+    "main.js.map": "/edkal/static/js/main.224b1424.chunk.js.map",
+    "runtime-main.js": "/edkal/static/js/runtime-main.e266e31b.js",
+    "runtime-main.js.map": "/edkal/static/js/runtime-main.e266e31b.js.map",
+    "static/js/2.daec6fe3.chunk.js": "/edkal/static/js/2.daec6fe3.chunk.js",
+    "static/js/2.daec6fe3.chunk.js.map": "/edkal/static/js/2.daec6fe3.chunk.js.map",
+    "index.html": "/edkal/index.html",
+    "precache-manifest.4293ae39052bfb2dac3e86cb0a44bfbe.js": "/edkal/precache-manifest.4293ae39052bfb2dac3e86cb0a44bfbe.js",
+    "service-worker.js": "/edkal/service-worker.js",
+    "static/css/main.fcc39c7c.chunk.css.map": "/edkal/static/css/main.fcc39c7c.chunk.css.map",
+    "static/js/2.daec6fe3.chunk.js.LICENSE.txt": "/edkal/static/js/2.daec6fe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e266e31b.js",
+    "static/js/2.daec6fe3.chunk.js",
+    "static/css/main.fcc39c7c.chunk.css",
+    "static/js/main.224b1424.chunk.js"
+  ]
+}
